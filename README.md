@@ -2,6 +2,7 @@
 A secure wallet application designed to ensure safe digital transactions and communication.
 
 Main Features:
+
 AES-256-CBC Encryption: Protects wallet tokens with strong cryptography.
 
 HMAC Integrity Check: Ensures tokens cannot be tampered with.
@@ -17,6 +18,7 @@ Fund Transfers: Allows secure peer-to-peer transfers with verification.
 TLS Communication: Secures data in transit against interception.
 
 Tools used:
+
 Programming: Python
 
 Security: AES-256, HMAC, TLS, X.509 Certificates
